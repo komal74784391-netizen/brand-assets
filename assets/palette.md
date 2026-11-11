@@ -1,0 +1,3 @@
+# Palette
+
+Colour tokens placeholder.

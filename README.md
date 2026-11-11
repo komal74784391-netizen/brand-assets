@@ -1,2 +1,3 @@
 # brand-assets
-Vellum programme support repository: brand-assets
+
+Presentation assets for the programme office.
